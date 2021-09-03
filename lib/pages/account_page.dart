@@ -86,7 +86,7 @@ class _AccountPageState extends State<AccountPage> {
                           borderRadius: BorderRadius.lerp(BorderRadius.circular(10), BorderRadius.circular(10), 20),
                           color: Colors.teal,
                         ),
-                        child: Center(child: Text("Sign In", style: TextStyle(color: Colors.white, fontSize: 20),),),
+                        child: Center(child: Text("Sign Up", style: TextStyle(color: Colors.white, fontSize: 20),),),
                       ),
                     ),
                     SizedBox(height: 20,),
